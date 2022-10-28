@@ -28,6 +28,37 @@
 *.hta linguist-detectable=true
 *.hta linguist-documentation=false
 *.hta linguist-language=HTML
+# DroppedText source file
+*.dropt linguist-detectable=true
+*.dropt linguist-documentation=false
+*.dropt linguist-language=DroppedText
+*.droptex linguist-detectable=true
+*.droptex linguist-documentation=false
+*.droptex linguist-language=DroppedText
+*.droptxt linguist-detectable=true
+*.droptxt linguist-documentation=false
+*.droptxt linguist-language=DroppedText
+*.drotex linguist-detectable=true
+*.drotex linguist-documentation=false
+*.drotex linguist-language=DroppedText
+*.drotxt linguist-detectable=true
+*.drotxt linguist-documentation=false
+*.drotxt linguist-language=DroppedText
+*.drtxt linguist-detectable=true
+*.drtxt linguist-documentation=false
+*.drtxt linguist-language=DroppedText
+*.dtxt linguist-detectable=true
+*.dtxt linguist-documentation=false
+*.dtxt linguist-language=DroppedText
+*.droppedtext linguist-detectable=true
+*.droppedtext linguist-documentation=false
+*.droppedtext linguist-language=DroppedText
+*.droppedtxt linguist-detectable=true
+*.droppedtxt linguist-documentation=false
+*.droppedtxt linguist-language=DroppedText
+*.droppedtex linguist-detectable=true
+*.droppedtex linguist-documentation=false
+*.droppedtex linguist-language=DroppedText
 # CSS (Cascade Styling Sheets) stylesheet file
 *.css linguist-detectable=true
 *.css linguist-documentation=false
@@ -164,7 +195,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Friday, October 28th at 3:13 pm PST)
+# Line count (including blank lines and compiler line): 202
 # End of script
